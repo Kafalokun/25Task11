@@ -1,1 +1,1 @@
-# My readme file
+# My readme file -This course is about data analytics
