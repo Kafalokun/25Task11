@@ -7,3 +7,4 @@
 ### PythonOOP.png. my python OOP code
 ### Car.py my python code that creates car object with a new car added
 ### NetworkDesign.jpeg my network topology diagram
+### Query1.png my select statement quering the products table
